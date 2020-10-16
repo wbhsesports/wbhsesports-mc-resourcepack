@@ -1,2 +1,4 @@
-# wbhsesports-mc-resourcepack
-Collab Minecraft Resource Pack from WBHS E-Sports
+# Collab Minecraft Resource Pack from WBHS E-Sports
+
+
+Austin - End
