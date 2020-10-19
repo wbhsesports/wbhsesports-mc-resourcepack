@@ -8,7 +8,7 @@
 - Dice - UI, Nether
 - Kelm - Elytra
 - Asiel - Trees, Rock
-
+- Jonas - Villagers 
 
 ### Sounds
 
