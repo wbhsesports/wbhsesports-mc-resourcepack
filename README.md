@@ -3,7 +3,7 @@
 ### Textures
 
 - Austin - End
-- Ale - Enderman, Strider, Disc 11, 13
+- Ale - Painting, Enderman, Strider, Disc 11, 13
 - Hannah - Discs, Overworld
 - Dice - UI, Nether
 - Kelm - Elytra
@@ -15,3 +15,4 @@
 - Ale - Disc 11 and 13 , Overworld Music
 - Hannah - Discs, Dirt
 - Dice - UI, Nether
+- Jonas - Villagers 
